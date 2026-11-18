@@ -13,8 +13,11 @@ Projede HTML, CSS ve JavaScript kullanılmıştır. Kullanıcılar masal adları
 
 ### Dosyalar
 
-- `turk_masallari_son_kontrol.html` → Projenin ana web sayfasıdır.
+- `index.html` → Projenin ana web sayfasıdır. HTML, CSS ve JavaScript kodlarını içerir.
+- `86250002_cerennazşimşek_vize.pdf` → Vize proje raporudur.
+- `main (1).tex` → Raporun LaTeX kaynak dosyasıdır.
+- `Vize_Sablon.pdf` → Kullanılan rapor şablonudur.
 
-### Sunum Videosu
+## Sunum Videosu
 
-Sunum videosu hazırlandıktan sonra bağlantısı buraya eklenecektir.
+[YouTube Sunum Videosu](https://www.youtube.com/watch?v=E6r17uMKqPs)
